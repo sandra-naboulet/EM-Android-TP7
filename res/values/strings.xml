@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TP4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="already_account">J\'ai déja un compte</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="valid">Valider</string>
+    <string name="name">Nom</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="welcome" formatted="true">Bienvenue %s !</string>
+    <string name="name_error">Vous devez indiquer votre nom</string>
+    <string name="email_error">Vous devez indiquer votre e-mail</string>
+    <string name="password_error">Vous devez fournir un mot de passe</string>
+    <string name="login">Connexion</string>
+    <string name="login_error">Les identifiants sont incorrects</string>
+    <string name="confirmation_msg">Etes vous sur de vouloir quitter l\'application ?</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="action_logout">Déconnexion</string>
+    <string name="cancel">Annuler</string>
+    <string name="ok">OK</string>
+	<string name="group_name">Nom du groupe</string>
+	<string name="group_users">Nom des utilisateurs</string>
+	<string name="add">Ajouter</string>
+    
+    <!-- Menu -->
+    <string name="action_add_group">Nouveau groupe</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Error messages -->
+    <string name="error_unauthorized">L\'email ou le mot de passe sont incorrects</string>
+    <string name="error_user_already_exists">Email déja utilisé</string>
+    <string name="error_server_unvailable">Serveur non disponible</string>
+    <string name="error_no_internet">Pas de connexion internet</string>
+    <string name="error_unknown">Erreur inconnue</string>
+    <string name="error_group_name">Vous devez indiquer un nom de groupe</string>
+
+</resources>
